@@ -1,0 +1,18 @@
+Système de recommendation de films et de série
+
+Construire une API pour récuperer les derniers film et series/documentaire sortie.
+
+Création de compte utilisateur, calcule de simélarité entre les profiles , création de list de favori , création de list
+de film a voir, système d'avis, système de s
+
+API pour proposé les plateforms les moins cher sur les quel regardé le film
+
+API pour récupérer les Bande-d'annonce et les review IMDB
+
+-> Django REST / No SQL
+-> React Native pour que l'application soit cross plateform
+
+V1-> un data-set des films existant
+-----> Système de recomendation
+-----> Compte Utilisateur -> list favori -> list des films/série à voir -> Review
+-----> API Band-annonce
